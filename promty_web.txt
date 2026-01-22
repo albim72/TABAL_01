@@ -1,1 +1,41 @@
 podaj przykład prompta - który pokaże jak najlepiej przeszukiwać internet pod kątem szukania konretnych informacji - np z uzyciem @web luv i nnych dekoratorów - podaj 3 przykłady
+
+@web
+Znajdź aktualne (po 2023 roku) informacje na temat:
+„zastosowania LLM w kontroli jakości w przemyśle produkcyjnym”.
+
+Warunki:
+- korzystaj wyłącznie z:
+  • raportów branżowych
+  • publikacji firm technologicznych
+  • artykułów technicznych (nie blogów marketingowych)
+- podaj dokładne źródła (autor, data, instytucja)
+- oddziel fakty od opinii
+- jeśli dane są niejednoznaczne, zaznacz to wprost
+
+
+@web
+Porównaj podejścia do Retrieval-Augmented Generation (RAG) w:
+- rozwiązaniach open-source
+- rozwiązaniach komercyjnych (enterprise)
+
+Zasady:
+- każda teza musi być poparta źródłem
+- używaj tylko dokumentacji technicznej lub whitepaperów
+- nie zgaduj, jeśli dane są niedostępne
+- na końcu podaj tabelę: podejście | zalety | ograniczenia | źródło
+
+
+@web
+Wyszukaj niszowe, eksperckie źródła dotyczące:
+„ograniczeń LLM w zadaniach decyzyjnych o wysokim ryzyku”.
+
+Instrukcje:
+- ignoruj artykuły popularnonaukowe
+- preferuj:
+  • prace badawcze
+  • stanowiska krytyczne
+  • raporty bezpieczeństwa AI
+- jeśli większość źródeł powtarza to samo, zaznacz efekt echa informacyjnego
+- wypisz tylko 5 najcenniejszych źródeł i uzasadnij wybór
+
